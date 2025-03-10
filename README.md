@@ -22,12 +22,12 @@
 ![alt text](https://github.com/VN351/ci-03/raw/main/images/1-1.png)
 5. Запустите анализатор против кода из директории [example](./example) с дополнительным ключом `-Dsonar.coverage.exclusions=fail.py`.
 6. Посмотрите результат в интерфейсе.
-![alt text](https://github.com/VN351/ci-01/raw/main/images/1-2.png)
-![alt text](https://github.com/VN351/ci-01/raw/main/images/1-3.png)
+![alt text](https://github.com/VN351/ci-03/raw/main/images/1-2.png)
+![alt text](https://github.com/VN351/ci-03/raw/main/images/1-3.png)
 7. Исправьте ошибки, которые он выявил, включая warnings.
 8. Запустите анализатор повторно — проверьте, что QG пройдены успешно.
 9. Сделайте скриншот успешного прохождения анализа, приложите к решению ДЗ.
-![alt text](https://github.com/VN351/ci-01/raw/main/images/1-4.png)
+![alt text](https://github.com/VN351/ci-03/raw/main/images/1-4.png)
 
 ## Знакомство с Nexus
 
@@ -43,7 +43,7 @@
    
 2. В него же загрузите такой же артефакт, но с version: 8_102.
 3. Проверьте, что все файлы загрузились успешно.
-![alt text](https://github.com/VN351/ci-01/raw/main/images/2-1.png)
+![alt text](https://github.com/VN351/ci-03/raw/main/images/2-1.png)
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
 https://github.com/VN351/ci-03/raw/main/files/maven-metadata.xml
 
